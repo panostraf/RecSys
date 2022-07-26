@@ -1,0 +1,7 @@
+venv/
+draft/
+dressipi_recsys2022/
+*.csv
+ipynb_checkpoints/
+*.ipynb_checkpoints
+/ipynb_checkpoints
